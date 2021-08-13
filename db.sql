@@ -1,1 +1,1 @@
-select * from t_book;
+select booname,bookprice from t_book;
